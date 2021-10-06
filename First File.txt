@@ -5,3 +5,4 @@ skit
 Den långa resan var väldigt lång
 Och en zombie kom och åt upp alla
 Problemet är löst
+Det här löser också problemet
